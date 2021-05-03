@@ -9,14 +9,14 @@ The API that we are using to fetch weather information is OpenWeather.
 ## Installation
 This Web application can be installed with very easy steps:
 - git clone [repository link]
-- composer update
+- composer install
 - In env file set the parameter WEATHER_API_KEY=[OpenWeather API KEY]
 
 And then this application will be ready to serve
 
 ## Security Vulnerabilities
 
-We are not using any cookies in our web application, So there is no vulnerability for users information. If you discover a security vulnerability within this application, please send an e-mail to Softradix via [developer@softradix.in]. All security vulnerabilities will be promptly addressed.
+We are not using any cookies in our web application, So there is no vulnerability for users information.
 
 ## License
 
